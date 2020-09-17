@@ -31,6 +31,8 @@ navToggle.on("click", function(event) {
   nav.toggleClass("show");
 });
 
+// Script don't work
+
 $("#testSlider").slick({
  infinite: true,
  slidesToShow: 4,
